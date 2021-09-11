@@ -9,7 +9,7 @@
 <h1><img src="images/E03 images/logo.png" alt="logo">Share Your Travels</h1>
 <ul>
   <li><a href = "#Description">Description</a></li>
-  <li><a href = "#Related">Related Photos</a></li>
+  <li><a href = "#RelatedImage">Related Photos</a></li>
 </ul>
 
 <h2>New York - Central Park</h2>
@@ -28,7 +28,7 @@ This Photo of Conservatory Pond in <a href= "https://www.centralparknyc.org/">Ce
 <a href= "images/E03 images/large-central-park.jpg"><img src="images/E03 images/central-park.jpg" alt="Central Park"></a></br>
   </br>
 
-<div id = "Related"><strong>Related Photos</strong></div></br>
+<div id = "RelatedImage"><strong>Related Photos</strong></div></br>
   </br>
 
 <a href= "images/E03 images/related-large1.jpg"><img src="images/E03 images/related-square1.jpg" alt="Related Square 1"></a>
